@@ -241,5 +241,9 @@ Use this tool responsibly. Only use it in unrated games, puzzles, or your own an
 
 ISC © M-golem - no `LICENSE` file is currently included in the repository; the ISC text above is the intended license.
 
+---
 
-
+<div align="center">
+  <sub>Built by <a href="https://github.com/M-GOLEM"><b>Mr.GOLEM</b></a> ·
+  watch the work on <a href="https://www.youtube.com/@golemsec">YouTube — GOLEM SEC</a></sub>
+</div>
