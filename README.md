@@ -239,7 +239,7 @@ Use this tool responsibly. Only use it in unrated games, puzzles, or your own an
 
 
 
-ISC © M-golem - no `LICENSE` file is currently included in the repository; the ISC text above is the intended license.
+ISC © Mr Sayrws - no `LICENSE` file is currently included in the repository; the ISC text above is the intended license.
 
 
 
